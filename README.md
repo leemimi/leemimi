@@ -10,7 +10,7 @@ Data Engineer & Data Analysis</br></br>
 - 한이음 이브와 공모전 참가 [2021]
 - 데이터 분석 청년 수련생_차세대융합기술원자율주행부서 인턴 연구원 [2022.6 ~ 2023.2]
  -->
-
+<div align="center">
 </br>
 <h3>🤍 Follow me 🤍</h3>
 <a href="https://leemimi.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -33,11 +33,13 @@ Data Engineer & Data Analysis</br></br>
 
 <h4> 🛠 Tools <h4>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
+ 
+<!-- 
 <br/>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
  
  [![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
  
-</div>
+</div> -->
+ </div>
