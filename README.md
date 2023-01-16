@@ -12,7 +12,7 @@ Data Engineer & Data Analysis</br></br>
  -->
 <div align="center">
 </br>
-<h3>🤍 Follow me 🤍</h3>
+<h3>🖤 Follow me 🖤</h3>
 <a href="https://leemimi.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  <a href="mailto:mijeong101598@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mijeong101598@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
@@ -29,6 +29,7 @@ Data Engineer & Data Analysis</br></br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/pandas-3DB7CC?style=flat-square&logo=mysql&logoColor=white"/>
 
 
 <h4> 🛠 Tools <h4>
