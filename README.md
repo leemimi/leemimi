@@ -29,7 +29,8 @@ Data Engineer & Data Analysis</br></br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/pandas-3DB7CC?style=flat-square&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/pandas-3DB7CC?style=flat-square&logo=pandas&logoColor=white"/>
+ 
 
 
 <h4> 🛠 Tools <h4>
