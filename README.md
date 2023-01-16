@@ -38,6 +38,7 @@ Data Engineer & Data Analysis</br></br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<!-- [![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?leemimi=anuraghazra&count_private=true)
+ </div>
