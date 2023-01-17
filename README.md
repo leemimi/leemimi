@@ -13,7 +13,7 @@ Data Engineer & Data Analysis</br></br>
 <div align="center">
 </br>
 <h3>🖤 Follow me 🖤</h3>
-<a href="https://leemimi.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://mimsdatastudy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  <a href="mailto:mijeong101598@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mijeong101598@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </br>
