@@ -1,4 +1,6 @@
 
+
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=fadddd&height=260&section=header&text=Minizi's%20Github&fontColor=FFF&fontSize=90)
 
  <br/>
@@ -41,7 +43,7 @@ BackEnd Engineer</br></br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
  
- [![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
+![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
  
 </div> 
  </div>
