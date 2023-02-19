@@ -1,8 +1,8 @@
 
-<div align="center">
+<div align="LEFT">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=fadddd&height=260&section=header&text=Minizi's%20Github&fontColor=FFF&fontSize=90)
-<div align="center">
+<!-- [header](https://capsule-render.vercel.app/api?type=wave&color=fadddd&height=260&section=header&text=Minizi's%20Github&fontColor=FFF&fontSize=90)
+<div align="center"> -->
  <br/>
 <h3>💖 Minizi 💖</h3><br/>
 BackEnd Engineer</br></br>
