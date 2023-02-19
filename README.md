@@ -18,7 +18,7 @@
 ## Follow me 
 <a href="https://mimsdatastudy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:mijeong101598@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mijeong101598@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleemimi.github.io&count_bg=%23F6C6F9&title_bg=%23FF9797&icon=&icon_color=%23FB63F9&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleemimi.github.io&count_bg=%23F6C6F9&title_bg=%23FF9797&icon=&icon_color=%23FB63F9&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <br/>
 
