@@ -5,7 +5,7 @@
 <div align="center"> -->
 <br/>
  
-## Minizi, BackEnd Engineer
+## Minizi, BackEnd Engineer (98.10.15)
 
 
 - 컴퓨터공학과 4년제 졸업 [2023.2]
