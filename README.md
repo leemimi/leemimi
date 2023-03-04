@@ -7,18 +7,20 @@
  
 ## Minizi, BackEnd Engineer (98.10.15)
 
+✅ 컴퓨터공학과 졸업 </br>
+ 
+✅ 백엔드 개발자가 되기 위해 공부중입니다! </br>
 
-- 컴퓨터공학과 4년제 졸업 [2023.2]
-- 한이음 이브와 공모전 참가 [2021]
-- 2022 빅데이터 분석 청년 수련생 [2022.6 ~ 2023.2]
-- 멋쟁이 사자처럼 백엔드스쿨 3기 [2023.2 ~ ]
-
-
+</br>
  
 ## Follow me
  #### 개발 공부 블로그 & TIL :   <a href="https://mimsdatastudy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Study blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
- 
-#### 이메일 주소 :  <a href="mailto:mijeong1015@naver.com" target="_blank"><img src="https://img.shields.io/badge/mijeong1015@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+- TIL 작성 </br>
+- 알고리즘 풀이 (JAVA & Python)</br>
+- 프로젝트 기록</br></br>
+
+#### 이메일 주소 : <a href="mailto:mijeong1015@naver.com" target="_blank"><img src="https://img.shields.io/badge/mijeong1015@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  
  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleemimi.github.io&count_bg=%23F6C6F9&title_bg=%23FF9797&icon=&icon_color=%23FB63F9&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) --> 
 
 <br/>
