@@ -8,8 +8,10 @@
 ## Minizi, BackEnd Engineer (98.10.15)
 
 ✅ 컴퓨터공학과 졸업 </br>
+
+✅ 2022년 빅데이터 분석 청년 수련생 수료 완료 </br>
  
-✅ 백엔드 개발자가 되기 위해 공부중입니다! </br>
+✅ 현백엔드 개발자가 되기 위해 공부중입니다! </br>
 
 </br>
  
@@ -18,6 +20,7 @@
 - TIL 작성 </br>
 - 알고리즘 풀이 (JAVA & Python)</br>
 - 프로젝트 기록</br></br>
+- trouble issue </br></br>
 
 #### 이메일 주소 : <a href="mailto:mijeong1015@naver.com" target="_blank"><img src="https://img.shields.io/badge/mijeong1015@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
