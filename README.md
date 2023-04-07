@@ -24,7 +24,7 @@
 
 #### 이메일 주소 : <a href="mailto:mijeong1015@naver.com" target="_blank"><img src="https://img.shields.io/badge/mijeong1015@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
- <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleemimi.github.io&count_bg=%23F6C6F9&title_bg=%23FF9797&icon=&icon_color=%23FB63F9&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) --> 
+
 
 <br/>
 
@@ -53,5 +53,6 @@
  
 ![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
  
-</div> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleemimi.github.io&count_bg=%23F6C6F9&title_bg=%23FF9797&icon=&icon_color=%23FB63F9&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) 
+ </div> 
  </div>
