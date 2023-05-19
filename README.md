@@ -11,8 +11,6 @@
 
 ✅ 2022년 빅데이터 분석 청년 수련생 수료 </br>
  
-✅ Now) BackEnd Developer </br>
-
 </br>
 
 ## 💻 Tech Stack 💻
