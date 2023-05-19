@@ -5,7 +5,7 @@
 <div align="center"> -->
 <br/>
  
-## Minizi, BackEnd Engineer (98.10.15)
+##  💫  BackEnd Engineer (98.10.15)
 
 ✅ Department of Computer Engineering </br>
 
@@ -14,22 +14,8 @@
 ✅ Now) BackEnd Developer </br>
 
 </br>
- 
-## Follow me
- #### Study Blog & TIL :   <a href="https://mimsdatastudy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Study blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-- TIL  </br>
-- Algorithm (JAVA & Python)</br>
-- Project</br>
-- trouble Issue </br></br>
-
-#### Email : <a href="mailto:mijeong1015@naver.com" target="_blank"><img src="https://img.shields.io/badge/mijeong1015@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  
-
-
-<br/>
 
 ## 💻 Tech Stack 💻
-<h4> Platforms & Languages <h4>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -40,15 +26,13 @@
  <img src="https://img.shields.io/badge/Html-00CED1?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/Css-B0E0E6?style=flat-square&logo=CSS3&logoColor=white"/>
  
- </br></br>
 
-## 🛠 Tools 🛠
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-FAFAD2?style=flat-square&logo=Notion&logoColor=white"/>
  
- 
-<br/></br>
-<h3 align="LEFT">👩‍💻 My Github Stats 👩‍💻</h3>
+<br/><br/>
+
+## 👩‍💻 My Github Stats 👩‍💻
 <div align="LEFT">
  
 ![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
