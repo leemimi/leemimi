@@ -11,7 +11,7 @@
 
  ### 👩‍💻 Education 👩‍💻
    - 2022년 빅데이터 분석 청년 수련생 </br>
-   - 멋쟁이 사자처럼 백엔드 스쿨 3기 </br>
+   - LIKELION BACKEND SCHOOL 3TH </br>
 </br>
 
 
