@@ -7,7 +7,11 @@
  
 ##  💫  BackEnd Engineer (98.10.15)
 
- Department of Computer Engineering </br>
+ Department of Computer Engineering </br></br>
+ 
+ ###  👩🏻‍💻 Work 👩🏻‍💻
+   - 차세대융합기술연구원 자율주행부서 데이터 분석 인턴 수련생 ( 2022.09 ~ 2023.02 )
+</br>
 
  ### 👩‍💻 Education 👩‍💻
    - 2022년 빅데이터 분석 청년 수련생 ( 2022.05 ~ 2022.08 )</br>
