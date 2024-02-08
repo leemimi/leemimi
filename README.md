@@ -7,7 +7,7 @@
  
 ##  💫  BackEnd Engineer (98.10.15)
 
- Department of Computer Engineering </br></br>
+ Department of Computer Engineering & Digital HealthCare </br></br>
  
  ###  👩🏻‍💻 Work 👩🏻‍💻
    - KB데이타시스템 드림버스컴퍼니 인턴십_어플리케이션 운영 ( 2023.12 ~ 2024.02 )
