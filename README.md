@@ -49,8 +49,7 @@
 <div align="LEFT">
  
 ![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mijeong1015)](https://solved.ac/mijeong1015)
- 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mijeong1015)](https://solved.ac/mijeong1015)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleemimi.github.io&count_bg=%23F6C6F9&title_bg=%23FF9797&icon=&icon_color=%23FB63F9&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) 
  </div> 
  </div>
