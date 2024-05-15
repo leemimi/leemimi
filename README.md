@@ -32,6 +32,10 @@
  
 <br/><br/>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/leemimi?pet-id=6" width="1000" height="60"/>
+</a>
+
 ## 🌟 My Stats 🌟
 <div align="LEFT">
  
