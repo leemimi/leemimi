@@ -7,7 +7,7 @@
  
 ##  💫  BackEnd Engineer
 
- Department of Computer Engineering & Digital HealthCare </br></br>
+ Department of Computer Engineering
  
  ###  👩🏻‍💻 Work 👩🏻‍💻
    - 한국연구재단 IT·전산 인턴 (2024.04 ~ 2024.08 )
@@ -40,7 +40,7 @@
 <div align="LEFT">
  
 ![leemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemimi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mijeong1015&cache=c)](https://solved.ac/mijeong1015)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mijeong1015&cache=c)](https://solved.ac/mijeong1015)-->
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api//generate_badge?boj=mijeong1015)](https://solved.ac/mijeong1015) -->
 
