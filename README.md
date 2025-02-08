@@ -33,7 +33,7 @@
 <br/><br/>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/leemimi?pet-id=6" width="1200" height="200"/>
+  <img src="https://render.gitanimals.org/farms/leemimi"/>
 </a>
 
 ## 🌟 My Stats 🌟
